@@ -1,0 +1,6 @@
+import socket
+# Create socket
+# Connect to the server
+# receive data from server
+#get and send response to server
+#close the socket
